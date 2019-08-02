@@ -1,0 +1,2 @@
+#!/bin/sh
+scp *.html *.jpg cb1100.kemitchell.com:/var/www/cb1100.kemitchell.com/
